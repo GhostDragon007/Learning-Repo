@@ -1,2 +1,2 @@
 # Learning-Repo
-This repo is for learning use, you can find the corresponding blog at shenjunhao.top
+This repo is for learning use, you can find the corresponding blog at www.shenjunhao.top
